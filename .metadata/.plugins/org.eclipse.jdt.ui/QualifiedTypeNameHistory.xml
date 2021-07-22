@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="mg.ericson.models.MedecinDAO"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="jakarta.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.lkrx1.demorest.Medecin"/>
+    <fullyQualifiedTypeName name="com.lkrx1.demorest.MedecinRepository"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.Medecin"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.GenericEntity"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.POST"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Consumes"/>
+    <fullyQualifiedTypeName name="java.net.URI"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.Response.Status"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PUT"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.DELETE"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.TraitementOutput"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.PatientDAO"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.TraitementInput"/>
+    <fullyQualifiedTypeName name="org.codehaus.jettison.json.JSONObject"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.StatistiqueDAO"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.MedecinDAO"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.Statistique"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.TraitementDAO"/>
+    <fullyQualifiedTypeName name="com.lkrx1.api.Traitement"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+</qualifiedTypeNameHistroy>
